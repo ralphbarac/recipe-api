@@ -60,7 +60,7 @@ curl https://ralphbarac.com/ingredient/<string:ingredient_in_recipe>
 Example
 
 ```
-curl https://ralphbarac.com/ingredient/rice
+curl https://ralphbarac.com/ingredient/tomato
 ```
 
 Response
