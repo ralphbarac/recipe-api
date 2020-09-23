@@ -1,7 +1,7 @@
 # recipe-api
 Documentation for my personal recipe API
 
-This Recipe API is organized around REST. It has predictable resource-oriented URLs, returns JSON-encoded responses, and uses standard HTTP response codes, authentication, and verbs.
+This Recipe API is organized around REST. It has predictable resource-oriented URLs, and returns JSON-encoded responses.
 
 Note that there are only a few recipes in the database currently, however more are being added every day.
 
